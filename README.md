@@ -1,4 +1,5 @@
-### Hi there, I am Safa. I am a computer science engineering student who is interested in game programming.
+### Hi there ^^
+I am Safa. I am a computer science engineering student who is interested in game programming and design patterns.
 
 - 🔭 I’m currently working on ExNatura: Nature Corrupted
 - 🌱 I’m currently learning UnrealEngine5 & C++
