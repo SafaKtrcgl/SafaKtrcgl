@@ -1,5 +1,5 @@
 ### Hi there ^^
-I am Safa. I am a computer science engineering student who is interested in game programming and design patterns.
+I am Safa. I am a computer science engineering student who is interested in game programming and its patterns.
 
 - 🔭 I’m currently working on ExNatura: Nature Corrupted
 - 🌱 I’m currently learning UnrealEngine5 & C++
@@ -8,11 +8,4 @@ I am Safa. I am a computer science engineering student who is interested in game
 - 💬 Ask me about Unity
 - 📫 How to reach me: safaktrcgl@gmail.com | https://www.linkedin.com/in/mehmet-safa-katircioglu/
 - 😄 Pronouns: He / Him
-- ⚡ Fun fact: If you manage to fold an a4 paper 42 times, its thickness will be large enough to reach the moon
-
-<!--
-**SafaMarley/SafaMarley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--->
+- ⚡ Fun fact: If you manage to fold an a4 paper 42 times, its thickness will be large enough to reach the moon U.U
