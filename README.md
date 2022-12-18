@@ -1,7 +1,6 @@
 ### Hi there, I am Safa ^^
 I am a computer science engineering student who is interested in game programming and game engine architecture.
 
-- 🔭 I’m currently working on ExNatura: Nature Corrupted
 - 🌱 I’m currently learning UnrealEngine5 & C++
 - 👯 I’m looking to collaborate on pretty much any C++ project
 - 🤔 I’m looking for help with Implementation, design and structure of game engines 
